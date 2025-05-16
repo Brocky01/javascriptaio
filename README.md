@@ -13,3 +13,7 @@ A Starter program for writing JavaScript games.
 ```
 
 2. The script will detect when the left or right arrow keys are pressed and will move the element accordingly.
+
+# JavaScript all-in-one for dummys
+
+I am reading JavaScript all-in-one for dummys
